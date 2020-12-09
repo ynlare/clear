@@ -1,0 +1,30 @@
+body{
+    background-color:green;
+    }
+    
+    .container{
+    background-color:#EFA;
+    width: 1400px;
+    text-align: center;
+        padding : 80px;
+        height: 550px;
+        float: right;
+        margin-top: 25px;
+    padding-top: 25px ;
+    padding-right:25px ;
+    padding-left: 25px;
+    padding-left: 100px ;
+    margin-left: 25px ;
+    
+    font-family: 'Dancing Script', cursive;}
+    
+    
+    .result{
+        background-color: white;
+        padding-top: 25px ;
+    height: 30px;
+    position: relative; top:20px;
+    
+    }
+    
+    .inputKG{ color:red}
